@@ -1,4 +1,5 @@
 ## Web Dev MOD Solutions
+Solutions to Assignmemts of the HTML, CSS and JavaScript course on Coursera offered by John Hopkins University.
 
 You can use the [editor on GitHub](https://github.com/vanssign/mod-solutions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
